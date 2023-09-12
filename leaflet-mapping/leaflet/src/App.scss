@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.map-container {
+  text-align: center;
+  height: 80vh;
+  align-items: center;
+  margin: 20px;
+
+  // .leaflet-container {
+  //   // width: 100% !important;
+  //   height: 100%;
+  // }
+}
+.leaflet-container {
+  /* width: 90%; */
+  height: 75vh;
+  /* border-radius: 20px; */
+  border: none;
+  margin-left: 0px;
+  margin-top: 10px;
+}
